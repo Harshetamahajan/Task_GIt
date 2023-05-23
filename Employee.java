@@ -6,9 +6,9 @@ import java.util.Scanner;
 
 // Create an Employee Class
 public class Employee {
-    private int EmpId;
+    private int EmpId;  //edit by locally on main
     private String Name;
-    private int Salary;
+    private int Salary;  //changes made on 11 line dev branch
 
     public Employee(int empId, String name, int salary) {
         this.EmpId = empId;

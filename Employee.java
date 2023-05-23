@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 // Create an Employee Class
 public class Employee {
-    private int EmpId;
+    private int EmpId; //edit by locally on main
     private String Name;
     private int Salary; //changes by main branch
 

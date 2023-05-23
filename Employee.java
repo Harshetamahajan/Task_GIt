@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class Employee {
     private int EmpId;
     private String Name;
-    private int Salary;  //changes made on 11 line
+    private int Salary;  //changes made on 11 line dev branch
 
     public Employee(int empId, String name, int salary) {
         this.EmpId = empId;
